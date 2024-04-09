@@ -1,4 +1,6 @@
 /* Place CSS styles here */
-font-family: "futura-pt", sans-serif;
-font-weight: 500;
-font-style: normal;
+body{
+    font-family: "futura-pt", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
