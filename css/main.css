@@ -30,7 +30,7 @@ h1{
     text-align: left;
     font-size: 100px;
     margin-left: 20px;
-    color: rgb(133, 214, 255);
+    color: rgb(0, 83, 122);
 }
 .variety-2{
     font-family: "futura-pt", sans-serif;
@@ -39,7 +39,7 @@ h1{
     text-align: right;
     font-size: 100px;
     margin-right: 20px;
-    color: rgb(133, 214, 255);
+    color: rgb(0, 83, 122);
 }
 .idk{
     display: flex;
@@ -52,7 +52,7 @@ h1{
     text-align: left;
     font-size: 100px;
     margin-left: 20px;
-    color: rgb(116, 208, 254);
+    color: rgb(0, 83, 122);
 }
 .variety-4{
     font-family: "futura-pt", sans-serif;
@@ -61,7 +61,7 @@ h1{
     text-align: right;
     font-size: 100px;
     margin-right: 20px;
-    color: rgb(116, 208, 254);
+    color: rgb(0, 83, 122);
 }
 .ugh{
     display: flex;
@@ -74,7 +74,7 @@ h1{
     text-align: left;
     font-size: 100px;
     margin-left: 20px;
-    color: rgb(101, 204, 255);
+    color: rgb(0, 83, 122);
 }
 .variety-6{
     font-family: "futura-pt", sans-serif;
@@ -83,7 +83,7 @@ h1{
     text-align: right;
     font-size: 100px;
     margin-right: 20px;
-    color: rgb(101, 204, 255);
+    color: rgb(0, 83, 122);
 }
 .bruh{
     display: flex;
@@ -96,7 +96,7 @@ h1{
     text-align: left;
     font-size: 100px;
     margin-left: 20px;
-    color: rgb(71, 194, 255);
+    color: rgb(0, 83, 122);
 }
 .variety-8{
     font-family: "futura-pt", sans-serif;
@@ -105,7 +105,7 @@ h1{
     text-align: right;
     font-size: 100px;
     margin-right: 20px;
-    color: rgb(71, 194, 255);
+    color: rgb(0, 83, 122);
 }
 .umm{
     display: flex;
@@ -118,7 +118,7 @@ h1{
     text-align: left;
     font-size: 100px;
     margin-left: 20px;
-    color: rgb(43, 184, 255);
+    color: rgb(0, 83, 122);
 }
 .variety-10{
     font-family: "futura-pt", sans-serif;
@@ -127,7 +127,7 @@ h1{
     text-align: right;
     font-size: 100px;
     margin-right: 20px;
-    color: rgb(43, 184, 255);
+    color: rgb(0, 83, 122);
 }
 .cat{
     display: flex;
@@ -140,7 +140,7 @@ h1{
     text-align: left;
     font-size: 100px;
     margin-left: 20px;
-    color: rgb(23, 178, 255);
+    color: rgb(0, 83, 122);
 }
 .variety-12{
     font-family: "futura-pt-bold", sans-serif;
@@ -149,7 +149,7 @@ h1{
     text-align: right;
     font-size: 100px;
     margin-right: 20px;
-    color: rgb(23, 178, 255);
+    color: rgb(0, 83, 122);
 }
 .uhh{
     display: flex;
@@ -162,7 +162,7 @@ h1{
     text-align: left;
     font-size: 100px;
     margin-left: 20px;
-    color: rgb(0, 170, 255);
+    color: rgb(0, 83, 122);
 }
 .variety-14{
     font-family: "futura-pt", sans-serif;
@@ -171,9 +171,12 @@ h1{
     text-align: right;
     font-size: 100px;
     margin-right: 20px;
-    color: rgb(0, 170, 255);
+    color: rgb(0, 83, 122);
 }
 .one{
     display: flex;
     justify-content: space-between
+}
+.box{
+    background-color: rgb(210, 240, 255);
 }
