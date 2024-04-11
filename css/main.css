@@ -101,8 +101,12 @@ h1{
     font-family: "futura-pt", sans-serif;
     font-weight: 700;
     font-style: italic;
-    text-align: left;
+    text-align: right;
     font-size: 100px;
+}
+.cat{
+    display: flex;
+    justify-content: space-between
 }
 .variety-11{
     font-family: "futura-pt-bold", sans-serif;
