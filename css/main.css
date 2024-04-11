@@ -3,6 +3,7 @@ body{
 }
 .box{
     background-color: rgb(0, 80, 171);
+    padding: 10px ;
 }
 h1{
     font-family: "futura-pt", sans-serif;
