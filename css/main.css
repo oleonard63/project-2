@@ -47,8 +47,12 @@ h1{
     font-family: "futura-pt", sans-serif;
     font-weight: 400;
     font-style: italic;
-    text-align: left;
+    text-align: right;
     font-size: 100px;
+}
+.ugh{
+    display: flex;
+    justify-content: space-between;
 }
 .variety-5{
     font-family: "futura-pt", sans-serif;
