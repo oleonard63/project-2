@@ -191,3 +191,12 @@ h2{
     font-size: 100px;
     color: rgb(210, 240, 255);
 }
+.lala{
+    font-family: "futura-pt", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: left;
+    font-size: 100px;
+    margin-left: 20px;
+    color: rgb(210, 240, 255);
+}
