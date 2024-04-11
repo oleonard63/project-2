@@ -137,6 +137,10 @@ h1{
     font-family: "futura-pt", sans-serif;
     font-weight: 800;
     font-style: italic;
-    text-align: left;
+    text-align: right;
     font-size: 100px;
+}
+.one{
+    display: flex;
+    justify-content: space-between
 }
